@@ -1,18 +1,18 @@
 # Cat and Dog Image Classification Using CNN
 
-This project uses a Convolutional Neural Network (CNN) to classify images as cats or dogs.
+This project uses a Convolutional Neural Network (CNN) to classify images as either cats or dogs.
 
 ## Objective
 
-To build a deep learning model that can classify an input image as either a cat or a dog.
+The objective of this project is to build a deep learning model that can classify an input image as a cat or a dog using CNN-based image classification.
 
 ## Technologies Used
 
-- Python
-- TensorFlow/Keras
-- CNN
-- ImageDataGenerator
-- NumPy
+* Python
+* TensorFlow/Keras
+* Convolutional Neural Network (CNN)
+* ImageDataGenerator
+* NumPy
 
 ## Project Workflow
 
@@ -20,7 +20,7 @@ To build a deep learning model that can classify an input image as either a cat 
 2. Applied image preprocessing and data augmentation using ImageDataGenerator.
 3. Built a CNN model using convolution, max pooling, flattening, dense, and sigmoid output layers.
 4. Trained and validated the model using train/test image folders.
-5. Performed single-image prediction.
+5. Performed single-image prediction using the trained model.
 
 ## Final Output
 
@@ -32,9 +32,13 @@ dog
 
 ## Skills Demonstrated
 
-- Image preprocessing
-- Data augmentation
-- CNN model building
-- Binary classification
-- Model training and validation
-- Single-image prediction
+* Image preprocessing
+* Data augmentation
+* CNN model building
+* Binary image classification
+* Model training and validation
+* Single-image prediction
+
+## Conclusion
+
+This project demonstrates the use of a basic CNN architecture for binary image classification. The model was trained to classify cat and dog images and tested using single-image prediction.
