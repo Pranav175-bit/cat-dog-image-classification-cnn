@@ -28,6 +28,7 @@ The model predicted a sample image as:
 
 ```text
 dog
+```
 
 ## Skills Demonstrated
 
