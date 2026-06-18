@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+dataset/
+data/
+*.h5
+*.pkl
+*.joblib
